@@ -1,0 +1,6 @@
+{
+  "name": "WonderWords - Kids English Adventure",
+  "description": "A delightful, interactive English learning app for kids featuring alphabet phonics, letter tracing, vocabulary flashcards, spelling puzzles, and balloon pop games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
